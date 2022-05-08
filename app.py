@@ -1,7 +1,10 @@
 from utility import isRegexPass
 
-questions = ["What is your name?",
-             "What is you DOB (dd/mm/yyyy)?", "What is your occupation?"]
+questions = [
+    "What is your name?",
+    "What is you DOB (dd/mm/yyyy)?", 
+    "What is your occupation?"
+]
 
 question_and_answer = dict()
 
